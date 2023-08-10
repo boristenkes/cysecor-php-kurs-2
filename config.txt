@@ -1,0 +1,4 @@
+$server_name = "localhost";
+$db_username = "id21130888_boris";
+$db_password = "Test123!";
+$db_name = "id21130888_shop";
